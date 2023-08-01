@@ -3,26 +3,7 @@
 
 # RMIT COSC2299 SEPT Major Project
 
-# Group Information
-
-## Group-PX-XX
-
-## Members
-* Student Name 1 (sXXXXX)
-* Student Name 2 (sXXXXX)
-* Student Name 3 (sXXXXX)
-* Student Name 4 (sXXXXX)
-
-## Records
-
-* Github repository: https://github.com/xxx
-* Github Project Board : https://xxxx
-
-	
-## Code documentation - Release 0.1.0 - date
-* feature 1
-* feature 2
-* feature 3
+This is a readily available repository you can easily clone to create your application. 
   
 
 # Run Instructions
