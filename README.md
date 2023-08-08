@@ -24,6 +24,7 @@ You will need to have in your system
 Other tools will be required to complete the project (e.g., Docker)
 
 ## Backend
+trig
 
 - Delete any unused services (i.e. backend/movies). They are there only for an initial reference.
 - Use [Spring initializr](https://start.spring.io/) to create your (micro)services
